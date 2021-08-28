@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Waygate Calculator</AssemblyName>
+    <RootNamespace>Waygate Calculator</RootNamespace>
+    <ApplicationIcon>Gate_stone.ico</ApplicationIcon>
+    <Authors>Kilobytes</Authors>
+    <Company></Company>
+    <Description>Calculates optimal way to get from point A to point B with MineZ waygates.</Description>
+    <Win32Resource />
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>true</Optimize>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+
+</Project>

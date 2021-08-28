@@ -1,0 +1,30 @@
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.csprojAssemblyReference.cache
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.Form1.resources
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.csproj.GenerateResource.cache
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.AssemblyInfoInputs.cache
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.AssemblyInfo.cs
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.csproj.CoreCompileInputs.cache
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\bin\Debug\netcoreapp3.1\GSP.exe
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\bin\Debug\netcoreapp3.1\GSP.deps.json
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\bin\Debug\netcoreapp3.1\GSP.runtimeconfig.json
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\bin\Debug\netcoreapp3.1\GSP.runtimeconfig.dev.json
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\bin\Debug\netcoreapp3.1\GSP.dll
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\bin\Debug\netcoreapp3.1\GSP.pdb
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.dll
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.pdb
+C:\Users\jarwil08\OneDrive - Wintec\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.genruntimeconfig.cache
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.csproj.GenerateResource.cache
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.AssemblyInfoInputs.cache
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.AssemblyInfo.cs
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.csproj.CoreCompileInputs.cache
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.genruntimeconfig.cache
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.MainForm.resources
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\GSP.csproj.AssemblyReference.cache
+D:\Downloads\GSP\GSP\bin\Debug\netcoreapp3.1\Waygate Calculator.exe
+D:\Downloads\GSP\GSP\bin\Debug\netcoreapp3.1\Waygate Calculator.deps.json
+D:\Downloads\GSP\GSP\bin\Debug\netcoreapp3.1\Waygate Calculator.runtimeconfig.json
+D:\Downloads\GSP\GSP\bin\Debug\netcoreapp3.1\Waygate Calculator.runtimeconfig.dev.json
+D:\Downloads\GSP\GSP\bin\Debug\netcoreapp3.1\Waygate Calculator.dll
+D:\Downloads\GSP\GSP\bin\Debug\netcoreapp3.1\Waygate Calculator.pdb
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\Waygate Calculator.dll
+D:\Downloads\GSP\GSP\obj\Debug\netcoreapp3.1\Waygate Calculator.pdb
